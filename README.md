@@ -1,10 +1,19 @@
 # Python3 / Numpy tutorials for Stanford cs228 and cs231n
 
+General Python and Numpy tutorial.
+
 Preparatory material for the probabilistic graphical models and the deep learning classes at Stanford.
 
-* A [tutorial](https://github.com/kuleshov/cs228-material/blob/master/tutorials/python/cs228-python-tutorial.ipynb) on basic Python/Numpy that is necesseary to get started with the above machine learning classes.
 
-* Upgraded to Python3 on 2017-08
+Upgraded to Python3 on 2017-08-22 by Paweł Załuski
 
-You may follow the iPython notebook on github, or clone and execute it locally.
-The notebook is based on an [earlier version](http://cs231n.github.io/python-numpy-tutorial/) prepared by Justin Johnson.
+This notebook is supposed to be used interactively, with executable fields. To use it so you need to get jupyter notebook server up and running locally:
+
+* `sudo apt-get install python3-pip`
+* `pip install --upgrade jupyter`
+* `jupyter notebook`
+
+The notebook is based on an [earlier version](http://cs231n.github.io/python-numpy-tutorial/) prepared by Justin Johnson and then adapted by Volodymyr Kuleshov and Isaac Caswell to .ipynb
+
+http://cs231n.github.io/python-numpy-tutorial/
+https://github.com/kuleshov/cs228-material
