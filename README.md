@@ -16,4 +16,5 @@ This notebook is supposed to be used interactively, with executable fields. To u
 The notebook is based on an [earlier version](http://cs231n.github.io/python-numpy-tutorial/) prepared by Justin Johnson and then adapted by Volodymyr Kuleshov and Isaac Caswell to .ipynb
 
 http://cs231n.github.io/python-numpy-tutorial/
+
 https://github.com/kuleshov/cs228-material
